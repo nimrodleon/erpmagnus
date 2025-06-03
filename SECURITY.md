@@ -1,40 +1,33 @@
 # Security Policy
 
-## Supported Versions
+## 📌 Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 18.0    | :white_check_mark: |
-| 17.0    | :white_check_mark: |
-| 16.0    | :white_check_mark: |
-| <=15.0  | :x:                |
+| 1.0.0   | ✅ Estable (basado en Odoo 18.0 Community) |
 
-## Reporting a Vulnerability
+## 🛡️ Reporting a Vulnerability
 
-Please share privately the details of your security vulnerability by contacting our Security Team:
-[Contact Info](https://www.odoo.com/security-report)
+**Kadoo** es un fork independiente de Odoo Community Edition.
 
-Make sure to include as much information as possible, with the detailed steps to reproduce the problem,
-the versions that are affected, the expected results and actual results, and any other information that
-might help us react faster and more efficiently.
+Si detectas una vulnerabilidad de seguridad, puedes reportarla de dos formas:
 
-We tend to prefer _text-based descriptions_ accompanied with a proof-of-concept script/exploit, rather
-than screenshots and videos.
+1. **Por correo electrónico** (preferido para casos sensibles):
+   - 📧 contacto: [supportkadoo@gmail.com]
 
-Our [Responsible Disclosure](https://www.odoo.com/security-report) page gives an overview of the
-process, including:
+2. **Abriendo un issue en GitHub** (solo si no contiene información sensible):
+   - 👉 [Crear un issue público](../../issues/new)
 
- - Our Incident Response Procedure (what will happen after you report an issue)
- - Our Rules (what you can and cannot do while researching security issues)
- - Guidelines with **DO REPORT** and **DO NOT REPORT** issues
-   (what kind of issues will be accepted/rejected)
+Al reportar, por favor incluye:
 
+- Versión afectada (ej. `v1.0.0`)
+- Pasos para reproducir el problema
+- Resultado esperado vs. resultado real
+- PoC o pruebas de concepto si es posible
 
-## Important note
+## 🔐 Notas importantes
 
-We receive a majority of security reports that have little to no impact on the security of Odoo or
-the Odoo Cloud, and we ultimately have to reject them. To avoid a disappointing experience when
-contacting us, please try to put together a proof-of-concept attack and take a critical look at
-what's really at risk.
-If the proposed attack scenario turns out unrealistic, your report will probably be rejected.
-Also be sure to review our list of [non-qualifying issues](https://www.odoo.com/security-report#what).
+Kadoo se basa en Odoo Community (LGPL v3), pero no está afiliado a Odoo S.A.  
+Para vulnerabilidades en el código original de Odoo, revisa su [política oficial de seguridad](https://www.odoo.com/security-report).
+
+Gracias por contribuir a un ecosistema más seguro.
