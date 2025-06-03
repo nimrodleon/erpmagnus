@@ -1,37 +1,25 @@
-# Odoo
+# Kadoo
 
-[![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
-[![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/master)
-[![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
-[![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
+**Kadoo** es un fork ligero de [Odoo Community Edition](https://github.com/odoo/odoo), basado en la rama **18.0**, optimizado para velocidad y simplicidad.  
+Está adaptado con enfoque en **Perú** y distribuido bajo la misma licencia **LGPLv3**.
 
-Odoo is a suite of web based open source business apps.
+## ¿Qué es Kadoo?
 
-The main Odoo Apps include an [Open Source CRM](https://www.odoo.com/page/crm),
-[Website Builder](https://www.odoo.com/app/website),
-[eCommerce](https://www.odoo.com/app/ecommerce),
-[Warehouse Management](https://www.odoo.com/app/inventory),
-[Project Management](https://www.odoo.com/app/project),
-[Billing &amp; Accounting](https://www.odoo.com/app/accounting),
-[Point of Sale](https://www.odoo.com/app/point-of-sale-shop),
-[Human Resources](https://www.odoo.com/app/employees),
-[Marketing](https://www.odoo.com/app/social-marketing),
-[Manufacturing](https://www.odoo.com/app/manufacturing),
-[...](https://www.odoo.com/)
+Kadoo es una versión simplificada de Odoo Community.  
+Se eliminan componentes innecesarios y se preparan integraciones específicas para negocios en Perú, priorizando:
 
-Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured [Open Source ERP](https://www.odoo.com) when you install several Apps.
+- Rapidez y ligereza ⚡
+- Módulos esenciales 🧩
+- Facilidad de despliegue 🚀
 
-## Getting started with Odoo
+## Licencia
 
-For a standard installation please follow the [Setup instructions](https://www.odoo.com/documentation/master/administration/install/install.html)
-from the documentation.
+Este proyecto se publica bajo la licencia [GNU LGPL v3](LICENSE), igual que el proyecto original [odoo/odoo](https://github.com/odoo/odoo).  
+Las modificaciones realizadas en esta versión están marcadas de forma clara y respetan los términos de la licencia libre.
 
-To learn the software, we recommend the [Odoo eLearning](https://www.odoo.com/slides),
-or [Scale-up, the business game](https://www.odoo.com/page/scale-up-business-game).
-Developers can start with [the developer tutorials](https://www.odoo.com/documentation/master/developer/howtos.html).
+## Créditos
 
-## Security
+Este es un proyecto independiente no afiliado a Odoo S.A.  
+Odoo® es una marca registrada de Odoo S.A.
 
-If you believe you have found a security issue, check our [Responsible Disclosure page](https://www.odoo.com/security-report)
-for details and get in touch with us via email.
+Fork basado en: https://github.com/odoo/odoo (rama `18.0`)
