@@ -8,12 +8,12 @@
 
 ## 🛡️ Reporting a Vulnerability
 
-**Kadoo** es un fork independiente de Odoo Community Edition.
+**sysmagnus** es un fork independiente de Odoo Community Edition.
 
 Si detectas una vulnerabilidad de seguridad, puedes reportarla de dos formas:
 
 1. **Por correo electrónico** (preferido para casos sensibles):
-   - 📧 contacto: [supportkadoo@gmail.com]
+   - 📧 contacto: [supportsysmagnus@gmail.com]
 
 2. **Abriendo un issue en GitHub** (solo si no contiene información sensible):
    - 👉 [Crear un issue público](../../issues/new)
@@ -27,7 +27,7 @@ Al reportar, por favor incluye:
 
 ## 🔐 Notas importantes
 
-Kadoo se basa en Odoo Community (LGPL v3), pero no está afiliado a Odoo S.A.  
+sysmagnus se basa en Odoo Community (LGPL v3), pero no está afiliado a Odoo S.A.  
 Para vulnerabilidades en el código original de Odoo, revisa su [política oficial de seguridad](https://www.odoo.com/security-report).
 
 Gracias por contribuir a un ecosistema más seguro.
