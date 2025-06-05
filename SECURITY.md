@@ -27,7 +27,7 @@ Al reportar, por favor incluye:
 
 ## 🔐 Notas importantes
 
-sysmagnus se basa en Odoo Community (LGPL v3), pero no está afiliado a Odoo S.A.  
+erpmagnus se basa en Odoo Community (LGPL v3), pero no está afiliado a Odoo S.A.  
 Para vulnerabilidades en el código original de Odoo, revisa su [política oficial de seguridad](https://www.odoo.com/security-report).
 
 Gracias por contribuir a un ecosistema más seguro.
