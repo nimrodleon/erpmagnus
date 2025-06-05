@@ -1,9 +1,9 @@
-# sysmagnus
+# erpmagnus
 
-**sysmagnus** es un fork ligero de [Odoo Community Edition](https://github.com/odoo/odoo), basado en la rama **18.0**, optimizado para velocidad y simplicidad.  
+**erpmagnus** es un fork ligero de [Odoo Community Edition](https://github.com/odoo/odoo), basado en la rama **18.0**, optimizado para velocidad y simplicidad.  
 Está adaptado con enfoque en **Perú** y distribuido bajo la misma licencia **LGPLv3**.
 
-## ¿Qué es sysmagnus?
+## ¿Qué es erpmagnus?
 
 sysmagnus es una versión simplificada de Odoo Community.  
 Se eliminan componentes innecesarios y se preparan integraciones específicas para negocios en Perú, priorizando:
