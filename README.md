@@ -5,7 +5,7 @@ Está adaptado con enfoque en **Perú** y distribuido bajo la misma licencia **L
 
 ## ¿Qué es erpmagnus?
 
-sysmagnus es una versión simplificada de Odoo Community.  
+erpmagnus es una versión simplificada de Odoo Community.  
 Se eliminan componentes innecesarios y se preparan integraciones específicas para negocios en Perú, priorizando:
 
 - Rapidez y ligereza ⚡
