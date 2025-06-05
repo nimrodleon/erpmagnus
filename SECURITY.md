@@ -8,7 +8,7 @@
 
 ## 🛡️ Reporting a Vulnerability
 
-**sysmagnus** es un fork independiente de Odoo Community Edition.
+**erpmagnus** es un fork independiente de Odoo Community Edition.
 
 Si detectas una vulnerabilidad de seguridad, puedes reportarla de dos formas:
 
